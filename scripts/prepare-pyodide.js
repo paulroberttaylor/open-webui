@@ -7,7 +7,8 @@ const packages = [
 	'scikit-learn',
 	'scipy',
 	'regex',
-	'seaborn'
+	'seaborn',
+	'sqlite3'
 ];
 
 import { loadPyodide } from 'pyodide';
